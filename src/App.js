@@ -11,6 +11,7 @@ import Home from './home/home';
 class App extends Component {
   render() {
     return (
+      <div className="App">
       <BrowserRouter>
       <div>
         <Navbar />
@@ -23,6 +24,7 @@ class App extends Component {
         </div>
         </div>
         </BrowserRouter>
+        </div>
     );
   }
 }
