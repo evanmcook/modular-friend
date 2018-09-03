@@ -1,3 +1,34 @@
+.navbar {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#home-div {
+  width: 400px;
+  font-weight: bold;
+}
+
+#navbar-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+  background-color: #9BE3BF;
+  text-align: center;
+  font-size: 30px;
+  font-family: ubuntu, sans-serif;
+}
+
+#navbar-links li a {
+  margin-right: 30px;
+}
+
 .hidden {
   display: none;
 }
