@@ -4,8 +4,8 @@
 }
 
 #home-div {
-  width: 400px;
-  font-weight: bold;
+  width: 800px;
+  font-weight: 500;
 }
 
 #navbar-links {
@@ -18,9 +18,9 @@
 a {
   color: black;
   text-decoration: none;
-  box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-  background-color: #9BE3BF;
-  text-align: center;
+  /*box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+  background-color: #9BE3BF;*/
+  text-align: right;
   font-size: 30px;
   font-family: ubuntu, sans-serif;
 }

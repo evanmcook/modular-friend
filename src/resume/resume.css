@@ -1,0 +1,25 @@
+.resumeP{
+    left:13%;
+    overflow: hidden;
+    padding-top: 77.2%;
+    position: relative;
+}
+
+.iframe-class {
+   margin-top: 20px;
+    border: 0;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0;
+    width: 68%;
+ }
+
+ .iframe-container{
+     padding-top: 77.2%;
+ }
+
+ /*.viewer{
+     padding-top: 77.2%;
+ }*/
+ 

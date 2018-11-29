@@ -5,9 +5,12 @@ class Resume extends Component {
   render() {
     return (
       <div className="resume">
-        <p> this is my resume </p>
-        
-      </div>
+        {/*<p> this is my resume </p>*/}
+      
+       <div class="resumeP">
+          <iframe class="iframe-class" src="http://evancook.audio/assets/EvanCookDec'17_web.pdf "> </iframe>
+          </div>
+       </div>
     );
   }
 }
