@@ -4,7 +4,7 @@
 }
 
 #home-div {
-  width: 800px;
+  width: 400px;
   font-weight: 500;
 }
 
@@ -18,9 +18,9 @@
 a {
   color: black;
   text-decoration: none;
-  /*box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-  background-color: #9BE3BF;*/
-  text-align: right;
+  /* box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+  background-color: #9BE3BF; */
+  text-align: center;
   font-size: 30px;
   font-family: ubuntu, sans-serif;
 }

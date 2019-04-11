@@ -6,8 +6,7 @@ class Contact extends Component {
     return (
       <div className="contact">
         <p> this is my contact page </p>
-        <script type="text/javascript" src="https://form.jotform.com/jsform/70186844220150">
-        </script>
+        
       </div>
     );
   }

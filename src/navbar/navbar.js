@@ -12,7 +12,6 @@ class Navbar extends Component {
         <ul id="navbar-links">
           <li><NavLink activeClassName='active' to="/resume">resume</NavLink></li>
           <li><NavLink activeClassName='active' to="/portfolio">portfolio</NavLink></li>
-          <li><NavLink activeClassName='active' to="/links">links</NavLink></li>
           <li><NavLink activeClassName='active' to="/contact">contact</NavLink></li>
         </ul>
       </div>
