@@ -1,0 +1,11 @@
+.row {
+    display: flex;
+    }
+    
+ .column {
+    flex: 20%;
+    }
+.link{
+        font-family: ubuntu, sans-serif;
+        text-decoration: none;
+      }
