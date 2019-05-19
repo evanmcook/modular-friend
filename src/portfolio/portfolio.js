@@ -5,7 +5,7 @@ class Portfolio extends Component {
   render() {
     return (
       <div className="portfolio">
-       <p> 2019</p>
+       <p className="subtitle"> 2019</p>
         <div class = "row">
           <div class = "column"> In early 2019, Evan did show control programming for <i>Pip's Island</i>.
           <br></br> 
@@ -14,7 +14,8 @@ class Portfolio extends Component {
           <div class = "column"></div>
         
         </div>
-        <p> 2018</p>
+
+        <p className="subtitle"> 2018</p>
         
         <div class = "row">
         <div class = "column"> In October and November of 2018, Evan assisted Ryan Hickey on the Signature Theatre's production of <i> Billy Elliot: The Musical</i> During his time on the production, Evan programmed a QLab workspace that allowed the musical director and mix engineer to simultaneously take cues on different cuelists without interrupting eachother. Read more about this Q-chindōgu here. </div>
@@ -38,15 +39,18 @@ class Portfolio extends Component {
 
 
         <div class = "row">
-        <div class = "column">In the summer of 2018, Evan designed <i>The Pavilion</i> at The Hub Theatre. 
-        <br></br>
-       <a href="https://dcmetrotheaterarts.com/2018/04/01/review-the-pavilion-at-the-hub-theatre/" target="_blank"> Reviewer David Siegel made special mention of the sound design in his review.</a>  
+        <div class = "column"> 
+         
+              In the summer of 2018, Evan designed <i>The Pavilion</i> at The Hub Theatre. 
+            <br></br> 
+           <a href="https://dcmetrotheaterarts.com/2018/04/01/review-the-pavilion-at-the-hub-theatre/" target="_blank"> Reviewer David Siegel made special mention of the sound design in his review.</a>  
+         
         </div>
         <div class = "column"></div>
         </div>
         
 
-        <p> 2017</p>
+        <p className="subtitle"> 2017</p>
         <div class = "row">
         <div class = "column">Original music from a production of <i>The Love of the Nightingale</i> <br></br> <br></br> Director: Shirley Serotsky <br></br>Callan Theater<br></br>The Catholic University of America<br></br>Washington, DC</div>
           <div class = "column">

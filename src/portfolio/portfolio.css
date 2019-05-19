@@ -3,9 +3,20 @@
     }
     
  .column {
-    flex: 20%;
+    flex: 50%;
     }
 .link{
         font-family: ubuntu, sans-serif;
         text-decoration: none;
       }
+
+@media only screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+.subtitle {
+  font-size: 25px;
+}

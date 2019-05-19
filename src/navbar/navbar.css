@@ -6,6 +6,7 @@
 #home-div {
   width: 400px;
   font-weight: 500;
+  padding-right: 40px;
 }
 
 #navbar-links {
@@ -15,7 +16,7 @@
   padding: 0;
 }
 
-a {
+.navbar a {
   color: black;
   text-decoration: none;
   /* box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
