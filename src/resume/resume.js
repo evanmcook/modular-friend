@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './resume.css';
 import { Document, Page } from 'react-pdf';
-import pdfFile from "./EvanCook20190518_web.pdf"
+import pdfFile from "./EvanCook20190522.pdf"
 
 class Resume extends Component {
   

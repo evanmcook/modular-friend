@@ -1,22 +1,66 @@
+.portfolio{
+  padding-top: 75px;
+}
+
 .row {
     display: flex;
     }
     
- .column {
+ /*.column {
     flex: 50%;
     }
+*/
+.prfItem{
+  display: flex;
+  /*-ms-flex-direction: column;
+  flex-direction: column;*/
+  justify-content: space-around;
+  padding-left: 20px;
+}
+
+.prfItem >* {
+  width: 50%;
+}
+
+.prfItem p{
+  font-size: 16px;
+}
+
 .link{
         font-family: ubuntu, sans-serif;
         text-decoration: none;
       }
 
 @media only screen and (max-width: 600px) {
-  .column {
-    width: 100%;
+  .prfItem{
+    flex-direction: column;
+    padding-left: 0px;
+    
   }
+  .rObj{
+    padding-top: 0px;
+    padding-left: 0px;
+    width: 200px;
+  }
+  
 }
 
+.subtitle h1{
+  font-family: ubuntu, sans-serif;
+  font-size: 30px;
+
+}
 
 .subtitle {
   font-size: 25px;
+}
+
+h2{
+  font-size:16px;
+  font-style: italic;
+}
+
+.rObj{
+  padding-top: 50px;
+  padding-left: 20px;
 }
