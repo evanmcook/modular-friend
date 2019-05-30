@@ -5,8 +5,24 @@ class Contact extends Component {
   render() {
     return (
       <div className="contact">
-        <p> this is my contact page </p>
-
+       
+        <br></br> 
+        <br></br> 
+        <br></br> 
+        <br></br> 
+        <br></br> 
+        <br></br> 
+        <div className = "contactContent">
+          <div class="subheader"> 
+            the best way to contact Evan is via email: 
+        
+            <br></br> 
+            <br></br> 
+              evan [at] evancook.audio
+        
+         
+          </div>
+        </div>
       
       
         

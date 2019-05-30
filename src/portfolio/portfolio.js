@@ -25,7 +25,7 @@ class Portfolio extends Component {
         <div>
         <h2>Sooner/Later</h2> <p>Original music from the DC premiere of Allyson Currin's <i>Sooner/Later</i>. <br></br> <br></br> Director: Gregg Henry <br></br>Sprenger Theater <br></br>Atlas Performing Arts Center<br></br>Washington, DC</p></div>
         
-        <div className = "rObj" > <p> ---Audio coming soon.---</p></div>
+        <div className = "rObj" > <iframe title= "soonerMusic" width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/791894535%3Fsecret_token%3Ds-XM8TN&color=%234c5050&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
 
         </div>
 
@@ -68,7 +68,7 @@ class Portfolio extends Component {
        
           <div>  <h2>Undead Joe, Airplane Fucker</h2> <p> <i>Undead Joe, Airplane Fucker</i> is a mixtape made entirely of cassette tapes found in thrift stores, combined with one book on tape found in a 'free' bin.
           It tells the story of a man who is raised from the dead, his relationship with his Kate, his mortality, his fear of commitment, and his airplanes.</p></div>
-          <div class="rObj"><iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490991337%3Fsecret_token%3Ds-FFwby&color=%234c5050&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
+          <div class="rObj"><iframe title="undeadJoeMusic" width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490991337%3Fsecret_token%3Ds-FFwby&color=%234c5050&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
         
 
           
@@ -80,7 +80,7 @@ class Portfolio extends Component {
           <h2>The Pavilion</h2> 
             <p>In the summer of 2018, Evan designed <i>The Pavilion</i> at The Hub Theatre.</p>  
             
-           <p><a href="https://dcmetrotheaterarts.com/2018/04/01/review-the-pavilion-at-the-hub-theatre/" target="_blank"> Reviewer David Siegel made special mention of the sound design in his review.</a> </p> 
+           <p><a href="https://dcmetrotheaterarts.com/2018/04/01/review-the-pavilion-at-the-hub-theatre/" target="_blank" rel="noopener noreferrer"> Reviewer David Siegel made special mention of the sound design in his review.</a> </p> 
          
           </div>
          <div></div>
@@ -92,7 +92,7 @@ class Portfolio extends Component {
           <div><h2>The Love of the Nightingale</h2><p>Original music from a production of <i>The Love of the Nightingale</i>. <br></br> <br></br> Director: Shirley Serotsky <br></br>Callan Theater<br></br>The Catholic University of America<br></br>Washington, DC</p></div>
           <div class = "rObj">
 
-          <iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/431384172&color=%234c5050&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+          <iframe title="ngaleMusic" width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/431384172&color=%234c5050&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
           </div>
         </div>
         
