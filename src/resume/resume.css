@@ -1,13 +1,21 @@
 .resume{
     padding-top: 75px;
-    padding-left: 350px;
-   
+    padding-left: 560px;
+    
 }
-
+.resume a {
+    /*color: black;*/
+    text-decoration: "underline";
+    /* box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+    background-color: #9BE3BF; */
+    text-align: center;
+    font-size: 30px;
+    font-family: ubuntu, sans-serif;
+  }
 
 @media only screen and (max-width: 1000px) {
 .resume{
-    padding-left: 0px;
+    padding-left: 130px;
     
 }
     

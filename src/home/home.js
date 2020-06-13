@@ -12,9 +12,9 @@ class Home extends Component {
           Evan likes helping tell stories.
          </p>
         <p>In addition to sound design, Evan has been known to:<br/></p>
-        <p>-brew bizarre QLab workspaces</p>
-        <p>-do show control programming for Pip's Island</p>
-        <p>-do exactly three skateboard tricks</p>
+        <p>-create sample packs for others</p>
+        <p>-brew bizarre QLab workspaces that contain simple games</p>
+        
         
       </div>
     );

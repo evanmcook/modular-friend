@@ -8,16 +8,25 @@ class Portfolio extends Component {
     return (
       <div className="portfolio">
 
-        <h1 className="subtitle"> Ongoing Projects </h1>
-        <div class = "prfItem"> 
-        
-          <div> <p>Evan continues to provide support for the show control programming of <i>Pip's Island</i>.</p></div>
-          <div> </div>
-
-        </div>
-
+   
        
-        
+       <h1 className="subtitle"> 2020</h1>
+       
+       <div class = "prfItem">
+       <div> <h2>Modelland</h2>
+          <p>In late 2019 and early 2020, Evan was the audio programmer and assistant sound designer for <i>Modelland</i>.</p>
+    
+          <p> He was in charge of programming each of the 6 QLab computers that handled audio playback, and the 1 QLab computer that handled audio control.</p>
+          <p> During his time programming for the production, he also: </p>
+          <p> -wrote original scripts for automatically generating a sequentially numbered batch of OSC triggers in QLab, and appending an alphabetical prefix for the triggers.</p>
+          <p> -designed a system and wrote QLab logic for a 'motion-sensing' sound trigger that would fire, and only fire again after a given duration. </p>
+          <p> -implemented a TouchOSC solution to allow for sound check to be performed on each of the 6 QLab machines from a single tablet interface. </p>
+          </div>
+          
+          <div></div>
+          </div>
+          
+
 
        <h1 className="subtitle"> 2019</h1>
 
