@@ -30,7 +30,7 @@ class Portfolio extends Component {
        <div class = "prfItem">
        <div> 
         <h2>Modelland</h2>
-          <p>In late 2019 and early 2020, Evan was the audio programmer and assistant sound designer for <i>Modelland</i>.</p>
+          <p>In late 2019 and early 2020, Evan worked for Brett Jarvis as the audio programmer and assistant sound designer for <i>Modelland</i>.</p>
     
           <p> He was in charge of programming each of the 6 QLab computers that handled audio playback, and the 1 QLab computer that handled audio control.</p>
           <p> During his time programming for the production, he also: </p>
