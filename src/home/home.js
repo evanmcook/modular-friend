@@ -13,6 +13,7 @@ class Home extends Component {
          </p>
         <p>In addition to sound design, Evan has been known to:<br/></p>
         <p>-create sample packs for others</p>
+        <p>-livestream soldering and circuitbending projects</p>
         <p>-brew bizarre QLab workspaces that contain simple games</p>
         
         

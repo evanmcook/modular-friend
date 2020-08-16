@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './portfolio.css';
+import darkGrimeJar from './darkGrimeJar.png';
 import asparagus from './evancook.audio_AsparagusBywhoKuh.png';
 import flambowPicture from './flambowOnCom.jpg';
 import billyPicture from './billyElliotCueStack.png';
@@ -12,6 +13,22 @@ class Portfolio extends Component {
    
        
        <h1 className="subtitle"> 2020</h1>
+
+
+       <div class = "prfItem">
+         <div> 
+         <h2>Jar-Based Electronics Projects</h2>
+          Evan assembled a Mask Audio Electronics Dark Grime distortion pedal, and a Moffenzeef Modular Jarmageddon.
+          While the power jack, input, output, and loudness knobs of the pedal are accessible, the bypass switch of the pedal is outside of convenient reach of the user.
+          The several copies of the Jarmageddon that Evan built reside in jars by design.
+          
+         </div>
+
+         <div className = "rObj"> 
+         <img src={darkGrimeJar} alt="photo by Anton Milioti " width ="100%" ></img>
+         </div>
+
+        </div>
 
        <div class = "prfItem">
          <div> 
