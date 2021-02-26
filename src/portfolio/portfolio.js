@@ -4,12 +4,26 @@ import darkGrimeJar from './darkGrimeJar.png';
 import asparagus from './evancook.audio_AsparagusBywhoKuh.png';
 import flambowPicture from './flambowOnCom.jpg';
 import billyPicture from './billyElliotCueStack.png';
+import ac22 from './ac22.png';
 
 class Portfolio extends Component {
   render() {
     return (
       <div className="portfolio">
 
+       <h1 className="subtitle"> 2021</h1>
+       <div class = "prfItem">
+         <div> 
+         <h2>ac22</h2>
+          The ac22 is a custom 8 key built as a gift for Autumn Cook, Evan's sister. The default keymap types "i'm gay", because trans rights are human rights.
+          Evan did the PCB design, PCB graphics, acrylic design, parts sourcing, firmware customization, and final assembly. 
+         </div>
+
+         <div className = "rObj"> 
+         <img src={ac22} alt="ac22 macropad" width ="90%" ></img>
+         </div>
+
+        </div>
    
        
        <h1 className="subtitle"> 2020</h1>
