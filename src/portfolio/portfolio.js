@@ -5,6 +5,7 @@ import asparagus from './evancook.audio_AsparagusBywhoKuh.png';
 import flambowPicture from './flambowOnCom.jpg';
 import billyPicture from './billyElliotCueStack.png';
 import ac22 from './ac22.png';
+import cafe from './imissmycafe.png';
 
 class Portfolio extends Component {
   render() {
@@ -12,6 +13,21 @@ class Portfolio extends Component {
       <div className="portfolio">
 
        <h1 className="subtitle"> 2021</h1>
+       <div class = "prfItem">
+         <div> 
+         <h2>I Miss My Cafe</h2>
+          I Miss My Cafe is a user-controllable virtual cafe built in collaboration with web developer Reagan Henke.
+          Evan did the sound design.
+          <p><a href="https://reaganhenk.com" target="_blank" rel="noopener noreferrer"> See more of Reagan's work here.</a> </p>
+          <p><a href="https://imissmycafe.com" target="_blank" rel="noopener noreferrer"> You can visit the cafe here.</a> </p>
+         </div>
+
+         <div className = "rObj"> 
+         <img src={cafe} alt="I Miss My Cafe" width ="100%" ></img>
+         </div>
+
+        </div>
+
        <div class = "prfItem">
          <div> 
          <h2>ac22</h2>
