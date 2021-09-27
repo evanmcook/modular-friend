@@ -18,7 +18,7 @@ class Portfolio extends Component {
          <h2>I Miss My Cafe</h2>
           I Miss My Cafe is a user-controllable virtual cafe built in collaboration with web developer Reagan Henke.
           Evan did the sound design.
-          <p><a href="https://reaganhenk.com" target="_blank" rel="noopener noreferrer"> See more of Reagan's work here.</a> </p>
+          <p><a href="https://reaganhenke.com" target="_blank" rel="noopener noreferrer"> See more of Reagan's work here.</a> </p>
           <p><a href="https://imissmycafe.com" target="_blank" rel="noopener noreferrer"> You can visit the cafe here.</a> </p>
          </div>
 
