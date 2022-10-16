@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './resume.css';
-import Pdf from "./EvanCook20190522.pdf";
+import Pdf from "./EvanCook20221016.pdf";
 {/*import { Document, Page } from 'react-pdf';
 import pdfFile from "./EvanCook20190522.pdf" */}
 
@@ -12,7 +12,7 @@ class Resume extends Component {
     return (
 
       <div className = "resume">
-        <a href = {Pdf} target = "_blank">Open PDF</a>
+        <a href = {Pdf} target = "_blank" rel="noopener noreferrer">Open PDF</a>
       </div>
 
     );
